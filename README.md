@@ -168,6 +168,8 @@ Alguno de los devanados segundarios podría estar en cortocircuito, o el voltaje
 
 ### 4. VIDEO
 
+https://youtu.be/mYftCGaqhN4
+
 ### 5. CONCLUSIONES
 
 Llegamos a la conclusión de que el voltaje alterno cambia su polaridad con rapidéz, además, se pueden visualizar las gráficas de ondas en un circuito, usamos el osciloscopio debido a que al usarlo podemos ver la traza de la señal eléctrica medida.
